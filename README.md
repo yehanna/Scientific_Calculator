@@ -1,1 +1,24 @@
-# hanna
+Group member  and section 
+1. Hanamariam Yehuala....UGR/9409/13 section (4)
+2. Mahlet tesfay....UGR/2649/13 (4)
+3. Lidiya ejigu.......UGR/5038/13 (4)
+4. Meron Abebe ......UGR/9559/13 (3)
+5. Hanna Legese...UGR/4973/13 (3)
+
+
+# s_c
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
