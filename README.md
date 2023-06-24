@@ -1,9 +1,7 @@
-Group member  and section 
+scientifc_calculator using flutter that can store the history of your calculation and also has the 4 operation and sin,cos,tan,ln and the othe exponentail function such as x^2, x^3, x^y.
+the other function also it has the function of M, M+, M-
+
 1. Hanamariam Yehuala....UGR/9409/13 section (4)
-2. Mahlet tesfay....UGR/2649/13 (4)
-3. Lidiya ejigu.......UGR/5038/13 (4)
-4. Meron Abebe ......UGR/9559/13 (3)
-5. Hanna Legese...UGR/4973/13 (3)
 
 
 # s_c
