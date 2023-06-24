@@ -20,7 +20,6 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 
-https://github.com/yehanna/Scientific_Calculator/assets/101621682/5869c17a-4d66-4437-ba85-1221ba224a79
 
 
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
